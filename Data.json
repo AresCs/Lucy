@@ -1,0 +1,32 @@
+{
+    "pryzumData": [
+        {
+            "Name": "Bobby Charles",
+            "Phone Number": 4200705875,
+            "Gang/Association": "Unknown",
+            "Nicknames": "Unknown",
+            "Date of Birth": "Not COnfirmed",
+            "Dirt": "Unknown",
+            "Properties": "None",
+            "Information": "Weapons License Holder",
+            "Occupations": "Legal Aid,Warden at Dogtown",
+            "Picture of Person": "https://i.imgur.com/GN3YiiD.png",
+            "Date of Entry": "05/08/2024 13:22:00",
+            "State ID": 1666
+        },
+        {
+            "Name": "Darcy Lane",
+            "Phone Number": 4206794508,
+            "Gang/Association": "Raiders MC",
+            "Nicknames": "Lane",
+            "Date of Birth": "Unknown",
+            "Dirt": "Unknown",
+            "Properties": "Chumash, Ineseno Road, 32. Chumash, Barbareno Road 31",
+            "Information": "Unknown",
+            "Occupations": "Unknown",
+            "Picture of Person": "Unknown",
+            "Date of Entry": "05/08/2024 13:22:00",
+            "State ID": 1685
+        }
+    ]
+}
