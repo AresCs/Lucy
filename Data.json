@@ -1,46 +1,18 @@
 {
     "pryzumData": [
         {
-            "Name": "Bobby Charles",
-            "Phone Number": 4200705875,
-            "Gang/Association": "Unknown",
-            "Nicknames": "Unknown",
-            "Date of Birth": "Not COnfirmed",
-            "Dirt": "Unknown",
-            "Properties": "None",
-            "Information": "Weapons License Holder",
-            "Occupations": "Legal Aid,Warden at Dogtown",
-            "Picture of Person": "https://i.imgur.com/GN3YiiD.png",
-            "Date of Entry": "05/08/2024 13:22:00",
-            "State ID": 1666
-        },
-        {
-            "Name": "Darcy Lane",
-            "Phone Number": 4206794508,
-            "Gang/Association": "Raiders MC",
-            "Nicknames": "Lane",
-            "Date of Birth": "Unknown",
-            "Dirt": "Unknown",
-            "Properties": "Chumash, Ineseno Road, 32. Chumash, Barbareno Road 31",
-            "Information": "Unknown",
-            "Occupations": "Unknown",
-            "Picture of Person": "Unknown",
-            "Date of Entry": "05/08/2024 13:22:00",
-            "State ID": 1685
-        },
-        {
-            "Name": "Mr Kebun",
-            "Phone Number": 4200372988,
-            "Gang/Association": "Unknown",
-            "Nicknames": "Mr K",
-            "Date of Birth": "Unknown",
-            "Dirt": "Unknown",
-            "Properties": "South Side, Strawberry Avenue, 20. La Puerta, Bay City Ave, 1",
-            "Information": "Unknown",
-            "Occupations": "Unknown",
-            "Picture of Person": "https://i.imgur.com/vrNskaI.png",
-            "Date of Entry": "05/08/2024 13:22:00",
-            "State ID": 1144
+            "Name": "Name",
+            "Phone Number": 1234567890,
+            "Gang/Association": "Information about gangs they are in or have connections with",
+            "Nicknames": "Nicknames they go by",
+            "Date of Birth": "Their date of birth",
+            "Dirt": "Any dirt on them",
+            "Properties": "What Properties do they own or have access to",
+            "Information": "General information about them",
+            "Occupations": "What jobs they have",
+            "Picture of Person": "Use imgur for the picture of them",
+            "Date of Entry": "Date of when this information was entered",
+            "State ID": 1234
         }
     ]
 }
