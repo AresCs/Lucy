@@ -167,6 +167,20 @@
             "Picture of Person": "Use imgur for the picture of them",
             "Date of Entry": "30/12/2024 16:30:00",
             "State ID": 1234
+        },
+        {
+            "Name": "Name Example12",
+            "Phone Number": 1234567890,
+            "Gang/Association": "Information about gangs they are in or have connections with",
+            "Nicknames": "Nicknames they go by",
+            "Date of Birth": "Their date of birth",
+            "Dirt": "Any dirt on them",
+            "Properties": "What Properties do they own or have access to",
+            "Information": "General information about them",
+            "Occupations": "What jobs they have",
+            "Picture of Person": "Use imgur for the picture of them",
+            "Date of Entry": "30/12/2024 16:30:00",
+            "State ID": 1234
         }
     ]
 }
