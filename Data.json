@@ -94,7 +94,7 @@
             "Properties": "Unknown",
             "Information": "Unknown",
             "Occupations": "Unknown",
-            "Picture of Person": "https://kappa.lol/AcghG.png",
+            "Picture of Person": "https://live.staticflickr.com/65535/53764331147_41b6a60e3f_o.png",
             "Date of Entry": "08/08/2024 14:14:00",
             "State ID": 1168
         },
@@ -169,18 +169,60 @@
             "State ID": 14251
         },
         {
-            "Name": "Vic Hanna",
+            "Name": "Dexter Day",
             "Phone Number": 0,
-            "Gang/Association": "LSPD",
+            "Gang/Association": "State Marshal",
             "Nicknames": "Unknown",
             "Date of Birth": "Unknown",
             "Dirt": "Unknown",
             "Properties": "Unknown",
             "Information": "Unknown",
             "Occupations": "Unknown",
-            "Picture of Person": "https://kappa.lol/Kj78f.jpeg",
+            "Picture of Person": "https://kappa.lol/Mfnw7.png",
             "Date of Entry": "08/08/2024 14:14:00",
-            "State ID": 14251
+            "State ID": 13871
+        },
+        {
+            "Name": "Dexter Day",
+            "Phone Number": 0,
+            "Gang/Association": "State Marshal",
+            "Nicknames": "Unknown",
+            "Date of Birth": "Unknown",
+            "Dirt": "Unknown",
+            "Properties": "Unknown",
+            "Information": "Unknown",
+            "Occupations": "Unknown",
+            "Picture of Person": "https://kappa.lol/Mfnw7.png",
+            "Date of Entry": "08/08/2024 14:14:00",
+            "State ID": 13871
+        },
+        {
+            "Name": "Calhoun Winchester",
+            "Phone Number": 4209249459,
+            "Gang/Association": "State Marshal",
+            "Nicknames": "Unknown",
+            "Date of Birth": "Unknown",
+            "Dirt": "Unknown",
+            "Properties": "Unknown",
+            "Information": "Unknown",
+            "Occupations": "Unknown",
+            "Picture of Person": "https://kappa.lol/YEyvK.png",
+            "Date of Entry": "08/08/2024 14:14:00",
+            "State ID": 13870
+        },
+        {
+            "Name": "Craig Barrett",
+            "Phone Number": 0,
+            "Gang/Association": "State Marshal",
+            "Nicknames": "Unknown",
+            "Date of Birth": "Unknown",
+            "Dirt": "Unknown",
+            "Properties": "Unknown",
+            "Information": "Unknown",
+            "Occupations": "Unknown",
+            "Picture of Person": "https://kappa.lol/YoLpY.png",
+            "Date of Entry": "08/08/2024 14:14:00",
+            "State ID": 2124
         }
     ]
 }
